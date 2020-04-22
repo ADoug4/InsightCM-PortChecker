@@ -1,0 +1,31 @@
+PortChecker Requirements Document
+
+1. UI Requirements
+1.1 User clicks single start button for test
+	
+
+
+2. Configuration Requirements
+
+
+3. Logging Requirements
+
+
+4. Connection Requirements
+
+
+5. Scalability Requirements
+
+1. USB Support
+1.1. USB 1.0 Speeds
+<<Hardware supports USB 1.0>>
+[Covers: PS_USB_REQ1]
+1.2. USB 2.0 Speeds
+<<Hardware supports USB 2.0>>
+[Covers: PS_USB_REQ2]
+2. Channel Support
+2.1. Analog Input
+<<Hardware supports analog input>>
+[Covers: PS_AI_REQ1]
+<<10 channels>>
+[Covers: PS_AI_REQ2]
