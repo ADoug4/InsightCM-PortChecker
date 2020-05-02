@@ -100,7 +100,7 @@
 				<Item Name="TCP Listen List Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen List Operations.ctl"/>
 				<Item Name="TCP Listen Internal List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen Internal List.vi"/>
 			</Item>
-			<Item Name="Log data.vi" Type="VI" URL="../src/old/log_data/Log data.vi"/>
+			<Item Name="Log Data Cluster.ctl" Type="VI" URL="../src/controls/Log Data Cluster.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Test server Inbound - Server" Type="EXE">
