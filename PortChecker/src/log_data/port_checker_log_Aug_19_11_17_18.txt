@@ -1,0 +1,112 @@
+Time Stamp: 8/19/2020 11:16:53 AM
+Port Number: 5
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:16:54 AM
+Port Number: 754
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:16:55 AM
+Port Number: 5672
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:16:56 AM
+Port Number: 6343
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:16:57 AM
+Port Number: 8002
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:16:58 AM
+Port Number: 49580
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:16:59 AM
+Port Number: 3580
+Test Type: TCP - Server to Client
+Result: Fail
+Error: 56 - TCP Read in Test Server to Client (TCP).vi->Main.vi
+
+
+Time Stamp: 8/19/2020 11:17:01 AM
+Port Number: 80
+Test Type: TCP - Server to Client
+Result: Fail
+Error: 56 - TCP Read in Test Server to Client (TCP).vi->Main.vi
+
+
+Time Stamp: 8/19/2020 11:17:03 AM
+Port Number: 22
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:17:04 AM
+Port Number: 44516
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:17:05 AM
+Port Number: 52725
+Test Type: TCP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:17:06 AM
+Port Number: 8080
+Test Type: TCP - Server to Client
+Result: Fail
+Error: 56 - TCP Read in Test Server to Client (TCP).vi->Main.vi
+
+
+Time Stamp: 8/19/2020 11:17:08 AM
+Port Number: 34
+Test Type: UDP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:17:09 AM
+Port Number: 5647
+Test Type: UDP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:17:10 AM
+Port Number: 44525
+Test Type: UDP - Server to Client
+Result: Pass
+Error: No Error
+
+
+Time Stamp: 8/19/2020 11:17:11 AM
+Port Number: 65534
+Test Type: UDP - Server to Client
+Result: Pass
+Error: No Error
+
+
